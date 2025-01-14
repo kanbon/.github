@@ -1,4 +1,4 @@
-# Freelance Backend Developer (Django/GraphQL) – 20h/Week - 100% Remote 🚀
+# 100% Remote - Freelance Backend Dev (Django/GraphQL) – 20h/Week 🚀
 
 We co-found technology-driven ventures in the cosmetics and construction industries, scaling impactful SaaS solutions that are transforming industries. 🌍 Fully remote, globally connected.
 
