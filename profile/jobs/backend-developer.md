@@ -1,6 +1,6 @@
 # Freelance Backend Developer (Django/GraphQL/PostgreSQL) – 20h/Week 🚀
 
-**Kanbon GmbH** is your gateway to shaping the future of tech startups. We co-found technology-driven ventures in the cosmetics and construction industries, scaling impactful SaaS solutions that are transforming industries. 🌍 Fully remote, globally connected.
+We co-found technology-driven ventures in the cosmetics and construction industries, scaling impactful SaaS solutions that are transforming industries. 🌍 Fully remote, globally connected.
 
 ---
 
