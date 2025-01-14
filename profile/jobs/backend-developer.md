@@ -1,4 +1,4 @@
-# Freelance Backend Developer (Django/GraphQL/PostgreSQL) – 20h/Week 🚀
+# Freelance Backend Developer (Django/GraphQL) – 20h/Week - 100% Remote 🚀
 
 We co-found technology-driven ventures in the cosmetics and construction industries, scaling impactful SaaS solutions that are transforming industries. 🌍 Fully remote, globally connected.
 
@@ -34,6 +34,7 @@ We co-found technology-driven ventures in the cosmetics and construction industr
 
 ## **Pay & Perks**
 
+🌍 **100% Remote**: Work from anywhere in the world with a flexible schedule.
 💰 **Freelance Rate**: Competitive but startup-friendly (**€20–25/hour**, negotiable).  
 🛠️ **AI Access**: All the tools you need to maximize your efficiency and creativity.  
 🎮 **Meta Quest 3**: Dive into VR collaboration when you want to elevate team brainstorming sessions.
