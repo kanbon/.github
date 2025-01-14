@@ -41,7 +41,7 @@
 
 ## **Apply Now**
 
-Send us a quick intro, your CV, and links to relevant work (GitHub, portfolio, etc.). We’re excited to meet you!
+Fill out this quick form to apply: [Fill out form](https://65xizcfrhdm.typeform.com/to/YV14SlCo)
 
 ---
 
