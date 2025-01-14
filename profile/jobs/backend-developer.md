@@ -6,7 +6,7 @@ We co-found technology-driven ventures in the cosmetics and construction industr
 
 ## **What’s in it for you?**
 
-💡 **Cool Tech Stack**: Work with cutting-edge AI tools like **Claude Pro**, **GitHub Copilot**, and more. Have a favorite tool? We’ll make it happen.  
+💡 **Cool Tech Stack**: Work with cutting-edge AI tools like **Devin**, **Claude Pro**, **GitHub Copilot**, and more. Have a favorite tool? We’ll make it happen.  
 ⚡ **Ownership Opportunities**: Transition into a permanent role or even take ownership of micro SaaS products you help create.  
 🎯 **Flexible Hours**: Your output matters most—deliver great results, and you control your schedule. Daily syncs keep us energized and on track.  
 🛠️ **Innovative Projects**: Collaborate on groundbreaking tools, such as AI-powered solutions for data integration across industries.  
