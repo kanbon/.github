@@ -34,7 +34,7 @@ We co-found technology-driven ventures in the cosmetics and construction industr
 
 ## **Pay & Perks**
 
-🌍 **100% Remote**: Work from anywhere in the world with a flexible schedule.
+🌍 **100% Remote**: Work from anywhere in the world with a flexible schedule.  
 💰 **Freelance Rate**: Competitive but startup-friendly (**€20–25/hour**, negotiable).  
 🛠️ **AI Access**: All the tools you need to maximize your efficiency and creativity.  
 🎮 **Meta Quest 3**: Dive into VR collaboration when you want to elevate team brainstorming sessions.
