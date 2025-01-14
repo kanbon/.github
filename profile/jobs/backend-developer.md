@@ -25,9 +25,10 @@ We co-found technology-driven ventures in the cosmetics and construction industr
 
 ## **What you’ll do**
 
-- Build, iterate, and maintain sophisticated SaaS solutions.
-- Document your work to ensure scalability and clarity.
-- Collaborate closely with Simon (our backend lead) and the rest of the team, contributing to daily syncs for brainstorming and problem-solving.
+- Build, iterate, and maintain sophisticated SaaS solutions with a strong focus on backend development.  
+- Collaborate on high-impact projects like AI-powered data collection and reporting tools. 
+- Document your work to ensure scalability, clarity, and maintainability of the codebase.
+- Collaborate closely with Simon (our backend lead) and the rest of the team, contributing to daily syncs for brainstorming and problem-solving.  
 
 ---
 
